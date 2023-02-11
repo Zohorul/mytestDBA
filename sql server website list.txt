@@ -1,0 +1,572 @@
+https://www.youtube.com/watch?v=hnGCEsW_Keg&list=PLNNeqe21-U0OgBE210D29VMNhw9q3eSvX&index=1   ---Devops
+https://www.youtube.com/watch?v=hnGCEsW_Keg&list=PLNNeqe21-U0OgBE210D29VMNhw9q3eSvX&index=1  --Devops
+https://www.youtube.com/watch?v=PCLyXZYdwTQ&list=PLwuUEKIzslpkHDq2SmW4hC9-U8UM227fu  --list devops 
+https://www.youtube.com/@thecloudbootcamp   ---thecloudbootcamp  brazil
+liriba home loan No-861110636
+https://www.youtube.com/watch?v=mpbhJPwkENI&list=PLQAaKTC042EpgdJ5D8lXHbYC9zom1fkEr  ---quranic grammar
+www.canva.com
+www.digistore24.com   --sonus complete
+https://www.youtube.com/@MrDevOps/playlists  ---Mr devops
+https://www.youtube.com/@RealEstateLicenseWizard/playlists  ---real agent 
+https://www.youtube.com/watch?v=cqqR_JPCIt0  ---Dr Jahangir 1/13/23
+https://drive.google.com/drive/folders/19SVKJib_Y5bgscFzGyEaCdTN-a7NsKEA  --anwarvhai-splunk 
+www.github.com
+https://github.com/xoraus/CrackingTheSQLInterview  --sql server dev interview
+www.linkened.com
+https://www.youtube.com/watch?v=saHpMVM8hqU  ---www.antijobuniversity.com
+https://www.youtube.com/@ankitbansal6/playlists  ---sql developer
+https://www.udemy.com/course/microsoft-sql-server-2019-go-from-a-to-z-10-h-of-class/learn/lecture/23893898#overview --udemy class for sql server 
+https://www.udemy.com/course/complete-microsoft-sql-server-database-administration-course/learn/lecture/28514487#overview --udemy.com --sql server dba
+http://www.cloudpandith.com/synapse.html  ---good for azure
+https://www.functionx.com/sqlserver/index.htm    ----good for sql server devlopment
+https://www.101daysofdevops.com/courses/101-days-of-devops/lessons/day-1-python-os-module/  ---devops
+https://www.youtube.com/watch?v=ptst-2i-_YY  ---get good websitegood devident
+SELECT, FROM, 
+WHERE,   
+GROUP BY, 
+HAVING 
+ORDER BY
+https://github.com/ktaranov/sqlserver-kit  ----very good github
+http://www.dbascript.com  --very good 
+https://www.sql-practice.com/
+https://www.techdevops.com/   ----very good website
+https://www.sqlshack.com  ---very good 
+www.learnsql.com   ---paid
+https://www.w3schools.com/sql/
+https://www.dofactory.com/sql
+https://www.sqlcourse.com/
+https://beginner-sql-tutorial.com/sql.htm
+https://sqlzoo.net/wiki/SQL_Tutorial
+https://www.tutorialspoint.com/sql/
+https://sqlbolt.com/
+https://www.datacamp.com/  ---paid
+https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select
+
+=========================================================================
+Extracting information from multiple tables using Joins in SQL
+Writing Subqueries
+Using Common Table Expressions (CTE)
+Creating Stored Procedures (SPs)
+Using Triggers in SQL
+Views in SQL
+Understanding Window Functions
+
+======================401k=================
+www.principal.com
+zohorulislam62
+Guptomanik#12
+=========================================
+
+
+www.hackerRank.com  ---
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019   ----window server 2019
+
+Bills list for PAYMENT
+https://docs.google.com/spreadsheets/d/1sEJ2h5xLn9RAXBNgRP-0eLBYj27WgQbSXF3NTFgA61w/edit#gid=0
+833-209-5245  bge
+
+https://www.youtube.com/watch?v=wI4HWGlI6gM --data analytic 
+power apps
+power BI
+powr automated 
+power virtul agent 
+=============================
+Dice.com
+rullam19@gmail.com
+Chaitanpur#12
+==============================
+https://www.youtube.com/watch?v=j333e_9V_J0&list=PLPz56jQglrSCMFHISN39VAHOQVW_G64_u   ---Very good garden DHD garden
+https://www.whizlabs.com/blog/database-migration-with-aws-dms/    ---AWS migration very good 
+https://www.youtube.com/watch?v=Z2jews-qysI&list=PLtotWBmyllCnqKSXb8agt_h55R8VXWXGB&index=1   -----tell me about yourself very good 
+https://ola.hallengren.com/sql-server-backup.html    ----veryyyyyyyyyyyyy good 
+https://www.youtube.com/watch?v=4PCOmeh6iqQ&list=PL70OBM1WMZ4r2eQuYkfV63U6hR_RbkTw7  ---ola-hallengren-backup
+
+https://www.tutorialgateway.org/sql/  ----sql server dev/admin --very good example
+https://www.youtube.com/watch?v=y_3QrudIh7U&list=PLQ-UNteTsc3D5uRTQWcPJqrEMNiKAPlsa  --sql sp very good 
+https://www.tutorialsteacher.com/sql/what-is-sql   ---very good 
+https://sqljudo.wordpress.com/2014/08/01/31-days-of-sql-server-management-studio/
+CHaitanpur#@12 clickbank.com
+https://gqbi.wordpress.com/2014/01/30/setting-up-a-proxy-account-to-run-sql-server-integration-services-ssis-2012-packages/
+https://masudprogrammer.wordpress.com/2015/08/10/ssis-set-permission-to-sql-agent-run-ssis-package/----sql developer
+https://www.youtube.com/watch?v=C7tAowmu-DI  --kerberos very good 
+https://www.sqlshack.com/how-to-link-two-sql-server-instances-with-kerberos/
+https://sqltechuniverse.wordpress.com/2020/10/11/linked-server-error-login-failed-for-user-nt-authorityanonymous-logon/ --Zia vhai
+https://www.youtube.com/watch?v=l-P6ns01ddE   --proxy account ssis
+https://leemarkum.com/blog/  ---very good 
+https://courses.valuetechacademy.com/courses/take/learn-microsoft-sql
+https://dbasdiary.com/product/mssqlserverinterviewquestionsanswers/
+download ssdt for visual studio 2017
+https://www.sqlshack.com/top-sql-server-linkedin-groups/#Microsoft%20SQL%20Server%20DBA  ----best many dba groups
+www.mockaroo.com
+https://drive.google.com/drive/folders/1PZF0bC7UitqEGEoUDx8QAW0f5WIsIZ7h  ---ssis drive example/sample
+https://azure-sql.blogspot.com/
+https://www.youtube.com/watch?v=cJ2IVsq9sew   -aws - sql server download
+https://www.ourtechideas.com/queries-used-by-sql-dba/   ---dba daily activity  check verryyyyy
+https://mirzahusain.wordpress.com/2017/10/05/dba-daily-tasks/    --daily task
+http://udayarumilli.com/sql-dba-responsibilities-and-roles/
+https://www.sqlnethub.com/blog/top-10-sql-server-dba-daily-tasks-list/
+https://www.relationaldbdesign.com/access-data-manipulation/module1/intro-data-manipulation.php
+https://www.brentozar.com/archive/2018/06/job-duties-for-database-developers-development-dbas-and-production-dbas/
+https://www.sqlshack.com/t-sql-scripts-to-generate-database-health-reports/
+http://www.sqlfreelancer.com/blog/?cat=104
+https://codingcompiler.com/sql-server-dba-tutorial/  -very good 
+https://sqldbarealtime.blogspot.com/2021/
+https://www.tutorialspoint.com/ms_sql_server/ms_sql_server_quick_guide.htm  
+https://www.postgresql.org/docs/13/admin.html
+https://www.sqlservertutorial.net/sql-server-basics/sql-server-create-database/
+https://www.techbrothersit.com/
+https://i.redd.it/hf2y9e6r36s71.jpg  ---sql server cheat sheet
+https://scalefresh.com/sql-cheatsheet-business-users/  ---sql cheat sheet
+https://learnsql.com/blog/sql-basics-cheat-sheet/   ---sql cheat sheet
+https://intellipaat.com/blog/tutorial/sql-tutorial/sql-commands-cheat-sheet/   ---sql servercheat sheet
+https://www.codecademy.com/learn/learn-sql/modules/learn-sql-multiple-tables/cheatsheet   --sql server cheat sheet
+https://www.cockroachlabs.com/blog/sql-cheat-sheet/#insert-into--valueshttpswwwcockroachlabscomdocsstableinserthtml   -----sql server cheat sheet
+https://www.svrtechnologies.video/courses/713474/lectures/12859848
+https://sqldbatutorial.com/category/queries/  --long runing queies 
+https://www.w3schools.com/sql/
+https://mode.com/sql-tutorial/introdu... 
+https://www.hackerrank.com/domains/sql 
+https://leetcode.com/problemset/datab... 
+https://www.khanacademy.org/computing... 
+https://www.edx.org/search?q=sql&tab=... 
+https://sqlzoo.net/
+www.brothersIT.com
+===============================================Azure SQL DBA from Raj=========================
+
+https://drive.google.com/drive/folders/1A9gcrAy778tEoodsYX4LGDhxF4VRdn6w   --Backup-maintainece hr-dR-tunning
+https://drive.google.com/drive/folders/1Qy_QuIVu7vXhp6fHQxYqYTF33se7NNd5
+https://drive.google.com/drive/folders/10tCyM4dVaLHC3iYo-1lh5jq5Zk_qB8gv
+https://drive.google.com/drive/folders/1q7iajGPXH5lpUIGe2mivaND3PekgxG3K
+https://drive.google.com/drive/folders/1GadQG1bveS3WHINDJW6FrhpQ4fBdXEUR
+https://drive.google.com/drive/folders/1Hi5w1X56nY1XmW6Hw4oLM8ArWj_0Aecb
+====================================================================================
+https://www.youtube.com/watch?v=5pUf-zu_HVI&list=PLWf6TEjiiuIDvJ4P5l7Bzrmpzv8hW9CAO&index=17  ----tsql 
+
+=========================Heart food=============
+Onion,Fish,Tomato,Beet,Ginger,Dark chokolate,Garlic,Cinamon,Black paper,Tumaric.Cabbage,Broccoli,leafy vegitable,
+
+-----------------------------------------------------------------------------------------------------------------------
+Dr dean Ormish
+Dr T.Colin campbell
+Dr Neal barnard
+
+you are what you eat --book Dr Gillan 
+Let food be your medicine book--by Don Colbert.MD
+Blue Zones the science of living longer
+90 % vegitable 10 % meat food
+70 % need life food 
+2 days samll fish
+2 days big fish
+1 days meat
+rest of the days vegitable
+8 ---acidic
+7 --neutral
+6-- alkaline ***
+
+Life food ...******
+
+dead food 
+half dead    ***
+
+Acid Formatic food
+Alkali formatic food ******
+
+avoid suagar, rice, 
+liquid poison --oil
+detox-detox method
+1. light warm water with lemon with 1 litre 
+2. citras food empty 
+3. nut with date 
+4. green vegitable
+5.eat salad 
+6. Beet juice every day
+7. Probiotic --doi-every day
+8. Fiber food
+9. light food in night 
+=============================================
+ For Insulin registance
+1. Diet -paleo diet Garin -Free, Vegitable, Berry,
+Breakfirst--Coffee+MCT oil,leafy green
+Salmon /vegitable
+Green smoothie,
+2.Fasting
+3. Exercise  --45 min
+4. Key Suppliment--Methyl b complex
+                  1. berberine 1500 *****like Metformin daily
+                  2.Cinamon with Chromium --daily 
+                  alpha lipoic acid
+                  Fish oil
+                 Blackstrap Molasses ***
+                 Sodium bicarbonate--Dr Mark Sircuss 
+                 Baking soda
+            
+================================
+Glucose --200 >>85
+A1c ---11  >>5.5
+Insulin 24>> 7 or 6
+=========================heart vitamin----------------
+5:42 L-Arginine
+6:30 L-Citruline
+7:30 Beetrot Extract (+energy & stamina)
+8:06 Vitamin C
+8:23 Hawthorn Berry (lowers blood pressure)
+8:51 Glutathione
+9:22 Trans-resveratrol
+
+L Arginine - Salmon
+L Citrulibe - Watermelon 
+Beets
+VITAMIN C - colorful Bell Pepper 
+Hawthorne Berries
+Glutathione - garlic, onions and cabbage 
+Trans Resveratrol - grapes
+Exercise
+
+
+==================================sql developer=====================
+Basics
+
+How to Concatenate Strings in MS-SQL Server
+How to Convert the Case of a String
+How to replace a Substring in a String
+How to Trim Strings
+How to Use string_agg()
+How to Use substring()
+How to Insert
+How to Update
+How to Delete
+Database Management
+
+How to Create a Table in MS-SQL
+How to Drop a Table in MS-SQL
+How to Rename a Table in MS-SQL
+How to Truncate a Table in MS-SQL
+How to Duplicate a Table in MS-SQL
+How to Add a Column in MS-SQL
+How to Drop a Column in MS-SQL
+How to Rename a Column in MS-SQL
+How to Add a Default Value to a Column in MS-SQL
+How to Remove a Default Value From a Column in MS-SQL
+How to Add a Not Null Constraint in MS-SQL
+How to Remove a Not Null Constraint in MS-SQL
+How to Create an Index in MS-SQL
+How to Drop an Index in MS-SQL
+How to Create a View in MS-SQL
+How to Drop a View in MS-SQL
+How to Alter Sequence in MS-SQL
+Dates And Time
+
+How to Exclude Current or Partial Weeks
+How to Use BETWEEN Correctly
+How to Query Date and Time in MS-SQL
+How to Group by Time
+How to Extract a Component From a Datetime
+Analysis
+
+How to Use Lateral Joins
+How to Use nullif()
+How to Get the First Row per Group
+How to Do Type Casting in MS-SQL
+How to Write a Common Table Expression
+How to Import a CSV
+How to Use Coalesce
+How to Write a Case Statement
+How to Query a JSON Column
+How to Calculate Cumulative Sum-Running Total=
+=================================================
+https://github.com/ktaranov/sqlserver-kit
+
+https://github.com/ktaranov/sqlserver-kit/tree/master/Solution/dbWarden
+http://www.sqlservercentral.com/articles/Monitoring/98106/
+
+https://github.com/ktaranov/sqlserver-kit/tree/master/Solution/BaselineCollector
+http://www.sqlapprentice.net/category/baseline/
+
+
+https://github.com/ktaranov/sqlserver-kit/blob/master/Stored_Procedure/dbo.sp_DBPermissions.sql
+
+https://github.com/ktaranov/sqlserver-kit/blob/master/Stored_Procedure/dbo.sp_SrvPermissions.sql
+
+https://davidpeterhansen.com/2017/10/09/sql-server-performance-troubleshooting-free-scripts-and-tools-list/
+
+http://www.mikefal.net/tag/sql-scripts/
+
+http://www.dbascript.com/sql-server-job-to-script-logins-and-passwords
+
+http://www.dbascript.com/create-new-login-and-add-it-to-sysadmin-role
+
+http://www.dbascript.com/
+
+http://www.dbascript.com/grant-execute-permission-to-all-stored-procedures
+
+https://gallery.technet.microsoft.com/Some-random-collection-of-b607bf1b
+
+====================================================================================
+Good for Urick acid
+=================== 
+
+
+Lemone
+Chery
+High viber food
+salery juice
+no meat
+no srimp
+no salt
+===============================
+online sale 
+=================
+Pricing:
+ebay fees
+paypal fees
+Stat Taxes
+Your profit
+80 Characters
+Keywords that people will search for
+
+www.digistore24.com    German 
+=====================
+
+The more products you test
+The more results you will see
+www.paypal.com
+islamzohorul@yahoo.com
+Pass:114803313Zaaf!
+www.ebay.com
+=====================
+Password:
+Amazon Best sellar list --for product reaserch 
+Auto-DS- heping tool for product -system automated
+accout: Payoneer with eBay
+sellar address on ebay
+
+www.cgdropshiping.com
+user: zohoruli
+izohorul@gmail.com
+Pass: Chaitanpur#12
+======================== 
+https://www.youtube.com/watch?v=MbvtQRREG_M&list=PLYmBs9WwlwhZIFoAnn2AXRTY8vcvvrYpj --- amazon sale a to Z
+https://www.facebook.com/messages/read/?fbid=100000569705384#fua
+https://www.dropified.com/?via=kevinpham1 dropfied 
+https://www.youtube.com/watch?v=0w4A4YEIagU  --shopify
+https://www.am-autoparts.com/?gclid=CjwKCAjw4c-ZBhAEEiwAZ105Rff5O9v5WbCL6FyFzN36kkEXALKXaNAmigliaMmYbMLxNF-uiBiexBoC_hcQAvD_BwE   --am-autoparts
+camera: sony a6100
+https://www.youtube.com/watch?v=66gijDsv1Jo    amazon --Tim Sanders
+The TRUTH About Selling On Amazon - Tim H  ---very good amazon sellar 
+https://www.youtube.com/watch?v=zu2DRNNw0PA&t=29s   ----
+Junglescout --3rd party tools
+Algo Time H
+wining the Buy Box
+90 % fail in business in Amazon 
+USA/canada/UK /austrulia --
+product double check --product analysis very important
+tools , money 
+www.Algo-Retail.com
+$997.00
+ASD Summit --losvagas show international
+permission sleep
+buy box 
+how do i buy box
+Send` me lebel 
+How to open FBA VS FBM
+Find the suplier list need popular product
+Q4 advantage
+Amazon care Brand ,amazon does not care sellar
+https://joinnow.live/a/7JBYth?id=ZT6F1U  20% to 35% profit
+MAQ suplier
+==================================================================================
+Learn to code — free 3,000-hour curriculum
+
+NOVEMBER 23, 2021
+/
+#SQL
+SQL Commands Cheat Sheet – How to Learn SQL in 10 Minutes
+Jason Dsouza
+Jason Dsouza
+SQL Commands Cheat Sheet – How to Learn SQL in 10 Minutes
+I’m an AI researcher, so one of the main things I deal with is data. A lot of it.
+
+With more than 2.5 exabytes of data generated every day, it comes as no surprise that this data needs to be stored somewhere where we can access it when we need it.
+
+This article will walk you through a hackable cheatsheet to get you up and running with SQL quickly.
+
+What is SQL?
+SQL stands for Structured Query Language. It is a language for relational database management systems. SQL is used today to store, retrieve, and manipulate data within relational databases.
+
+Here’s what a basic relational database looks like:
+
+image-54
+Source
+Using SQL, we can interact with the database by writing queries.
+
+Here’s what an example query looks like:
+
+SELECT * FROM customers;
+Using this SELECT statement, the query selects all the data from all the columns in the customer’s table and returns data like so:
+
+image-55
+Source: Database Guide
+The asterisk wildcard character (*) refers to “all” and selects all the rows and columns. We can replace it with specific column names instead — here only those columns will be returned by the query
+
+SELECT FirstName, LastName FROM customers;
+Adding a WHERE clause allows you to filter what gets returned:
+
+SELECT * FROM customers WHERE age >= 30 ORDER BY age ASC;
+This query returns all data from the products table with an age value of greater than 30.
+
+The use of ORDER BY keyword just means the results will be ordered using the age column from the lowest value to the highest
+
+Using the INSERT INTO statement, we can add new data to a table. Here’s a basic example adding a new user to the customers table:
+
+INSERT INTO customers(FirstName, LastName, address, email)
+VALUES ('Jason', 'Dsouza', 'McLaren Vale, South Australia', 'test@fakeGmail.com');
+Of course, these examples demonstrate only a very small selection of what the SQL language can do. We'll learn more about it in this guide.
+
+Why Learn SQL?
+We live in the age of Big Data, where data is used extensively to find insights and inform strategy, marketing, advertising and a plethora of other operations.
+
+Big businesses like Google, Amazon, AirBnb utilize large, relational databases as a basis of improving customer experience. Understanding SQL is a great skill to have not only for data scientists and analysts but for everyone.
+
+How do you think that you suddenly got a Youtube ad on shoes when just a few minutes ago, you were Googling your favourite shoes? That’s SQL (or a form of SQL) at work!
+
+SQL vs MySQL
+Before we move on, I just want to clarify an often-confused topic — the difference between SQL and MySQL. As it turns out, they aren’t the same thing!
+
+SQL is a language, while MySQL is a system to implement SQL.
+
+SQL outlines syntax that allows you to write queries that manage relational databases.
+
+MySQL is a database system that runs on a server. It allows you to write queries using SQL syntax to manage MySQL databases.
+
+In addition to MySQL, there are other systems that implement SQL. Some of the more popular ones include:
+
+SQLite
+Oracle Database
+PostgreSQL
+Microsoft SQL Server
+How to Install MySQL
+For most cases, MySQL is the preferred choice for a database management system. Many popular Content Management Systems (like Wordpress) use MySQL by default, so using MySQL to manage those applications can be a good idea.
+
+In order to use MySQL, you’ll need to install it on your system:
+
+Install MySQL on Windows
+The recommended way to install MySQL on Windows is by using the MSI installer from the MySQL website.
+
+This resource will guide you with the installation process.
+
+Install MySQL on macOS
+On macOS, installing MySQL also involves downloading an installer.
+
+This resource will guide you through the installation process.
+
+How to Use MySQL
+With MySQL now installed on your system, I recommend that you use some sort of SQL management application to make managing your databases a much easier process.
+
+There are lots of apps to choose from which largely do the same job, so it’s down to your own personal preference on which one to use:
+
+MySQL Workbench developed by Oracle
+phpMyAdmin (operates in the web browser)
+HeidiSQL (Recommended for Windows)
+Sequel Pro (Recommended for macOS)
+When you’re ready to start writing your own SQL queries, consider importing dummy data rather than creating your own database.
+
+Here are some dummy databases that are available for download free of charge.
+
+SQL Cheatsheet – The Icing on the Cake 
+SQL Keywords
+Here you can find a collection of keywords used in SQL statements, a description, and where appropriate an example. Some of the more advanced keywords have their own dedicated section.
+
+Where MySQL is mentioned next to an example, this means this example is only applicable to MySQL databases (as opposed to any other database system).
+
+ADD -- Adds a new column to an existing table
+
+ADD CONSTRAINT -- Creates a new constraint on an existing table, which is used to specify rules for any data in the table.
+
+ALTER TABLE -- Adds, deletes or edits columns in a table. It can also be used to add and delete constraints in a table, as per the above.
+
+ALTER COLUMN -- Changes the data type of a table’s column.
+
+ALL -- Returns true if all of the subquery values meet the passed condition.
+
+AND -- Used to join separate conditions within a WHERE clause.
+
+ANY -- Returns true if any of the subquery values meet the given condition.
+
+AS -- Renames a table or column with an alias value which only exists for the duration of the query.
+
+ASC -- Used with ORDER BY to return the data in ascending order.
+
+BETWEEN -- Selects values within the given range.
+
+CASE -- Changes query output depending on conditions.
+
+CHECK -- Adds a constraint that limits the value which can be added to a column.
+
+CREATE DATABASE -- Creates a new database.
+
+CREATE TABLE -- Creates a new table. 
+
+DEFAULT -- Sets a default value for a column
+
+DELETE -- Delete data from a table.
+
+DESC -- Used with ORDER BY to return the data in descending order.
+
+DROP COLUMN -- Deletes a column from a table.
+
+DROP DATABASE -- Deletes the entire database.
+
+DROP DEAFULT -- Removes a default value for a column.
+
+DROP TABLE -- Deletes a table from a database.
+
+EXISTS -- Checks for the existence of any record within the subquery, returning true if one or more records are returned.
+
+FROM -- Specifies which table to select or delete data from.
+
+IN --  Used alongside a WHERE clause as a shorthand for multiple OR conditions.
+
+INSERT INTO -- Adds new rows to a table.
+
+IS NULL -- Tests for empty (NULL) values.
+
+IS NOT NULL -- The reverse of NULL. Tests for values that aren’t empty / NULL.
+
+LIKE -- Returns true if the operand value matches a pattern.
+
+NOT -- Returns true if a record DOESN’T meet the condition.
+ 
+OR -- Used alongside WHERE to include data when either condition is true.
+
+ORDER BY -- Used to sort the result data in ascending (default) or descending order through the use of ASC or DESC keywords.
+
+ROWNUM -- Returns results where the row number meets the passed condition.
+
+SELECT -- Used to select data from a database, which is then returned in a results set.
+
+SELECT DISTINCT -- Sames as SELECT, except duplicate values are excluded.
+
+SELECT INTO -- Copies data from one table and inserts it into another.
+
+SELECT TOP -- Allows you to return a set number of records to return from a table.
+
+SET -- Used alongside UPDATE to update existing data in a table.
+
+SOME -- Identical to ANY.
+
+TOP -- Used alongside SELECT to return a set number of records from a table.
+
+TRUNCATE TABLE -- Similar to DROP, but instead of deleting the table and its data, this deletes only the data.
+
+UNION -- Combines the results from 2 or more SELECT statements and returns only distinct values.
+
+UNION ALL -- The same as UNION, but includes duplicate values.
+
+UNIQUE -- This constraint ensures all values in a column are unique.
+
+UPDATE -- Updates existing data in a table.
+
+VALUES -- Used alongside the INSERT INTO keyword to add new values to a table.
+
+WHERE -- Filters results to only include data which meets the given condition.
+=====================================================================================
