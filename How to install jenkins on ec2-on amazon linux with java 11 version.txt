@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=SvM0iWHtTJ4  ---use full link
    13  service jenkins status
    14. Sudo su
    15. Cat initialAdminPassword
-   16. 0gsggsgs8867790077hhgg (copy password)
+   16. 0gsggsgs8867790077hhgg 
+
 
    
