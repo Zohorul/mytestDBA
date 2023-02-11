@@ -1,0 +1,23 @@
+    AWS
+   GlennDaleMD#@12
+
+https://www.youtube.com/watch?v=SvM0iWHtTJ4  ---use full link
+    0  Sudo su-
+    1  yum update -y
+    2  sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+    3  sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
+    4  sudo amazon-linux-extras install epel
+    5  yum install java-11-openjdk-devel -y
+    6  yum install java-11-openjdk-devel
+    7 yum search all "java"
+    8 yum install java-11-amazon-corretto.x86_64
+    9  java --version
+   10  yum install jenkins
+   11  systemctl start jenkins
+   12  service jenkins start
+   13  service jenkins status
+   14. Sudo su
+   15. Cat initialAdminPassword
+   16. 0gsggsgs8867790077hhgg (copy password)
+
+   
